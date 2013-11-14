@@ -32,4 +32,6 @@ function fetchRecord($query)
 	return mysql_fetch_assoc($result);
 }
 
+// COMMENT FOR REVERT
+
 ?>
