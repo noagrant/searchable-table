@@ -34,4 +34,6 @@ function fetchRecord($query)
 
 // COMMENT FOR REVERT
 
+// another message
+
 ?>
